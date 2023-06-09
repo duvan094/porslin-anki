@@ -29,6 +29,14 @@
             {
                 "title": "Litteratur",
                 "href": "/litteratur"
+            },
+            {
+                "title": "Utflykter & Resor",
+                "href": "/utflykter"
+            },
+            {
+                "title": "Galleri",
+                "href": "/galleri"
             }
         ]
     },
@@ -337,6 +345,229 @@
                         },
                         {
                             "src": "bok7.jpg-for-web-small.jpg",
+                            "alt": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "utflykter": {
+            "title": "Utflykter & Resor",
+            "paragraphs": [
+                {
+                    "subHeading": "Porslinsfabriken KPM - Königliche Porzellan Manufaktur i Berlin",
+                    "text": "<a href='https://www.kpm-berlin.com/' target='_blank'>Königliche Porzellan Manufaktur</a> är en porslinstillverkare i Berlin som grundades av Fredrik den Store 1763. Nedan är några bilder från KPM:s muséum.",
+                    "images": [
+                        {
+                            "src": "Bild 273.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 220.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 240.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 253.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 209.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 210.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 211.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 212.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 228.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 233.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 236.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 235.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 259.jpg-for-web-normal.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 260.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 258.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 264.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 261.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 224.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "Bild 226.jpg-for-web-small.jpg",
+                            "alt": ""
+                        }
+                    ]
+                },
+                {
+                    "subHeading": "Schloss Charlottenburg i Berlin",
+                    "text": "Schloss Charlottenburg byggdes år 1699 av kurfursten Friedrich III till sin hustru Sophie Charlotte, som ett sommarpalats. Detta är det största palatset i Berlin och ramas in av en vacker trädgård i barockstil. Inne på slottet finns det samlingar av kinesiskt och japanskt porslin. Slottet skadades under andra världskriget men återuppbyggdes i mitten av 1900-talet."
+                },
+                {
+                    "text": "Nedan några bilder från porslinsutställningen på slottet.",
+                    "images": [
+                        {
+                            "src": "Bild 139.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0622.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0620.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0630.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0642.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0645.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+
+                        {
+                            "src": "DSC_0647.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0650.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0655.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0654.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0652.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_0615.jpg-for-web-small.jpg",
+                            "alt": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "galleri": {
+            "title": "Galleri",
+            "paragraphs": [
+                {
+                    "text": "Välkommen på min utställning på nätet. Inspireras gärna men kopiera inte, tack. Fler bilder kommer.",
+                    "images": [
+                        {
+                            "src": "DSC_5950.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5945.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5908.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5910.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5912.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5906.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5941.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5929.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5925.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5948.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5914.JPG-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5927.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5903.JPG-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5953.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5932.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5952.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "DSC_5943.jpg-for-web-small.jpg",
                             "alt": ""
                         }
                     ]
