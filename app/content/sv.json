@@ -1,0 +1,305 @@
+{
+    "common": {
+        "footnote": "Miac Webdesign Copyright © 2011",
+        "links": [
+            {
+                "title": "Startsida",
+                "href": "/"
+            },
+            {
+                "title": "Historia",
+                "href": "/history"
+            },
+            {
+                "title": "Tekniker",
+                "href": "/techniques"
+            },
+            {
+                "title": "Färg & material",
+                "href": "/colorsandmaterials"
+            },
+            {
+                "title": "Projekt",
+                "href": "/project"
+            },
+            {
+                "title": "Bränning",
+                "href": "/burning"
+            }
+        ]
+    },
+    "pages": {
+        "landingPage": {
+            "title": "Porslins- och glasmålningens underbara värld",
+            "paragraphs": [
+                {"text": "Välkomna till Dig som hittat till min hemsida om porslin- och glasmålning. Jag började måla porslin en höstdag -91 och har sen dess ägnat många timmar åt detta intresse. Senare år har jag även provat på lite glasmålning."},
+                {"text": "Jag har haft hemsida i många år om porslinsmålning och haft många besökare. Hemsidan har även varit omnämnd i \"PC för Alla\". Jag har samlat fakta om tekniker, färger och färglära, material, tips om bränning, bra länkar och lite till. Följ ett av mina målningsprojekt från början till färdigt resultat. Jag har ändrat layout och bytt hemsideadress och hoppas många hittar hit. I våras var jag i Berlin och besökte bl a porslinsfabriken KPM - Königliche Porzellan Manufaktur  och slottet Charlottenburg. Titta gärna in under Berlin länken för att se bilder där ifrån."},
+                {"text": "Jag målar med ett trevligt gäng i Floda sen länge. Vi träffas varje vecka och målar ihop och utbyter ideér och erfarenheter. Vi har haft några utställningar i Lerum, Floda och i Alingsås bl a. Vi är alla medlemmar i Svenska Porslinsmålningsförbundet, som ordnar både veckoslutskurser och sommarkurser."},
+                {"text": "Titta gärna in i mitt galleri och se vad jag har målat genom åren. Hoppas Du hitter något av intresse. Alla bilder på hemsidan är mina egna. Skriv gärna i min gästbok eller skicka e-mail till anki@miac.se"}
+            ]
+        },
+        "history": {
+            "title": "Porslinshistoria - Ostindiska kompaniet",
+            "paragraphs": [
+                {
+                    "text": "På 900-talet skapades det första porslinet i Kina. Men det var först på 1200-talet som porslinet kom till Europa. Det var den upptäcksresande Marco Polo som besökte Kina på 1200-talet och tog med sig det första porslinet till Europa. Han gav det namnet porslin efter porslinssnäckan. Med tiden inleddes en omfattande handel mellan Kina och Europa. Det var stor efterfrågan på det \"Vita guldet\". Hur porslinet skapades förblev en hemlighet till alkemisten Johann Friederich Böttger kom på hur man gjorde fältspatsporslin år 1708. Då han upptäckt detta spärrades han i på slottet Albrechtsburg i Meissen för att hemligheten inte skulle läcka ut. Så småningom grundades flera fabriker runt om i Europa. Man framställde porslin efter kinesiska förebilder. Porslin var dyrt så det var mest furstuhus och adel som hade råd att köpa."
+                },
+                {
+                    "text": "\"Den Konglige Porcelænsfabrik\" i Danmark fick sitt världsrykte främst för den berömda servisen \"Flora Danica\", som är dekorerad med Danmarks Flora. I Sverige lades för några år sedan Rörstrands fabrik i Lidköping ned."
+                },
+                {
+                    "text": "I Göteborg, närmare bestämt ute på Eriksbergs varvsområde kallat Terra Nova har man under ca 10 års tid byggt en kopia av Ostindiefararen Götheborg. Den 2 oktober 2005 seglade Ostindiefararen iväg på sitt livs äventyr till Kina. Besättningen består av 19 fast anställda och 60 elever."
+                },
+                {
+                    "text": "Hon är ett av världens största seglande träfartyg. Längden är 41 meter, fartygets vikt 1150 ton och en rigghöjd på 40 meter. Föregångaren Götheborg vilar sedan 255 år på havsbotten strax utanför Älvsborgs Fästning. Den 9 december 1984 återfanns den förlista ostindiefararen Götheborg av dykare från Marinarkeologiska sällskapet. Tidigare på 1800-talet och i början av 1900-talet hade porslin tagits upp och även nu tog man upp massa porslin. Det var även nu idén föddes att bygga en kopia av ostindiefararen Götheborg."
+                },
+                {
+                    "text": "Fartyget från 1700-talet har byggts av 4000 kubikmeter ek och fur i modern tappning. Utsidan på fartyget kommer att vara så likt ett 1700-tals skepp som möjligt. Inuti måste det följa dagens bestämmelser om säkerhet. Byggnationen började 1995. Projektet beräknas att sluta på närmare 140 miljoner. Fartyget kommer att följa samma rutt som det en gång gjorde. Det kommer att ta längre tid på sig än föregångaren och lägga till i flera hamnar för att visa upp sig. Fartyget sjösattes hösten 2002, därefter har den legat i hamn och inredningen, master och segel, tekniska system har monteras. Skeppet planeras att seglas i minst 20 år. Efter att skeppet har varit i Kina ska det var ett skolskepp."
+                },
+                {
+                    "text": "Det svenska Ostindiska kompaniet bildades 1731. De geografiska upptäckterna hade öppnat möjligheterna till en vidgad utomeuropeisk handel. De handelsmän som satsade pengar i kompaniet blev förmögna och köpte sig stora gods och bruk, och Göteborg blomstrade som aldrig förr. Portugiserna tog tillfället i akt och förstod att snabbt utnyttja de ostindiska varor som bjöds. De portugisiska kompaniet tillkom redan 1587. Handeln bedrevs både på Indien och Kina, men det senare landet blev snart dominerande. I Kina blev hamnstaden Kanton centrum för denna handeln. Den ostasiatiska handeln var från början inriktad på kryddor, men de europeiska köpmännen lyckades snart skapa behov av andra varor, främst te, porslin och siden. Från att ha varit exotiska lyxartiklar blev dessa ting nödvändiga ända ned i medelklassen. Det var naturligt att även svenskarna drogs med i den ostasiatiska vind som blåste över Europa."
+                },
+                {
+                    "text": "De stora sjöfarande nationerna såg med misstänksamhet nya handelsföretag startas, och det var naturligt att de även skulle bjuda de svenska försöken motstånd. Svenska ministern i London, Carl Gustaf Sparre, utarbetade tillsammans med erfarna engelska handelsmän en plan, som gick ut på att Göteborg skulle bli centrum och att Madagaskar skulle användas som mellanstation på de långa färderna. Colin Campbell, en skotsk köpman sökte nya möjligheter till goda investeringsobjekt. Han tog kontakt med Niclas Sahlgren under dennes vistelse i Holland. Sahlgren blev intresserad och utarbetade en konkret plan över företagets tänkta organisation och verksamhet. De utländska kapitalisternas verksamhet betraktades ur ekonomisk synvinkel med stor misstro. De behövde därför en svensk representant. Denne man fann man i kommissarien Henrik König, som redan 1729 inlämnade en ansökan till Kommerskollegium om pass för två fartyg. Med dem skulle han och några kompanjoner bedriva handel med Ostindien."
+                },
+                {
+                    "text": "Då första steget nu tagits med så lyckat resultat, gick König vidare och anhöll om en oktroj för ett ostindiskt kompani, dvs ensamrätt att bedriva denna handel under ett antal år. Den 14 januari 1731 utfärdades det nya kompaniets privilegier för en oktroj på femton år. Colin Campbell var i praktiken den drivande kraften. Han kunde nu titulera sig svensk adelsman. Han skulle själv följa med den första ostindiefararen, som döptes till Friedericus Rex Sueciae. Av kungen erhöll han en fullmakt att vara Sveriges ambassadör hos kejsaren i Kina bl a."
+                },
+                {
+                    "text": "Den 9 februari 1732 lämnade Friedericus Rex Sueciae Göteborgs hamn. Den första ostindiefararen var nu på väg på en lång resa. Besättningen var troligen ett hundratal män. Färden gick bra och man nådde Kanton. Efter 1,5 år nådde man Göteborgs Hamn igen. Det man hade med sig i lasten såldes på auktion. I utbyte mot järn, ädla metaller och andra värdebeständiga produkter fick man te, porslin och siden."
+                },
+                {
+                    "subHeading": "Götheborg",
+                    "text": "Efter 2,5 års färd förolyckades skeppet Götheborg i själva inloppet i hamnen, strax utanför Älvsborg fästning. Större delen av lasten kunde bärgas i olika omgångar Sammanlagt använde kompaniet 37 olika skepp för sina turer. Skeppen byggdes i Sverige."
+                },
+                {
+                    "subHeading": "Mat",
+                    "text": "Den långa restiden gjorde det nödvändigt att föra med sig en levande ladugård, förutom all saltad och torkad föda."
+                },
+                {
+                    "subHeading": "Porslin",
+                    "text": "Det mesta av porslinet som togs hem utgjordes av det traditionella porslinet med blå dekor på vit botten. Mönstren bestod ofta av landskapsbilder med pagoder, eller av fåglar, träd, blommor och andra motiv ur naturens värld. Dyrast var det beställda porslinet. Många slottsherrar och godsägare ville ståta med alldeles egna dekorationer och sände därför med ritningar av sina gårdar eller släktvapen, som av de kinesiska konstnärerna överfördes till fat och tallrikar. På så vis fick de en personlig servis, som både var förstaklassig, vacker och vittnade om deras ställning i samhället. Som kompaniets centrum framstod den ståtliga kompanibyggnaden vid Norra Hamngatan, numera Göteborgs Stadsmuseum."
+                },
+                {
+                    "subHeading":"Superkargören",
+                    "text": "Ute på ostindiefärderna var det superkargörerna som bestämde. De hade makt och tjänade pengar. En av de mest kända superkargörerna är Henric Braad."
+                },
+                {
+                    "subHeading":"Slutet för ostindiska kompaniet",
+                    "text": "Första skeppet hade avseglats 1732, och det sista anlöpte Göteborgs hamn i mars 1806. Alla fartyg kom inte tillbaka. Sammanlagt inträffade åtta förlisningar och strandningar, många människor offrades, dyra fartyg och laster gick till botten och kompaniet gjorde ekonomiska förluster. Det hade börjat knaka i fogarna. I början av 1800-talet beslutade riksdagen att kompaniet skulle få en extra beskattning. 1809 försattes kompaniet i konkurs. Den 29 maj 1813 hade kompaniet direktion sammanrått med regeringen och sammankallade till en bolagsstämma. Det beslutades att kompaniet skulle upplösas. Den ostindiska handeln blev nu fri för alla. Men det var nu inte längre tal om lättförtjänta pengar. De försök som gjordes efter 1813 var inte många och inte så framgångsrika. Den gyllene ostindiska tiden var definitivt slut, och den strålglans som omgett svenska ostindiefarare tillhörde nu en förgången tid."
+                },
+                {
+                    "subHeading":"Slutet för ostindiska kompaniet",
+                    "text": "Första skeppet hade avseglats 1732, och det sista anlöpte Göteborgs hamn i mars 1806. Alla fartyg kom inte tillbaka. Sammanlagt inträffade åtta förlisningar och strandningar, många människor offrades, dyra fartyg och laster gick till botten och kompaniet gjorde ekonomiska förluster. Det hade börjat knaka i fogarna. I början av 1800-talet beslutade riksdagen att kompaniet skulle få en extra beskattning. 1809 försattes kompaniet i konkurs. Den 29 maj 1813 hade kompaniet direktion sammanrått med regeringen och sammankallade till en bolagsstämma. Det beslutades att kompaniet skulle upplösas. Den ostindiska handeln blev nu fri för alla. Men det var nu inte längre tal om lättförtjänta pengar. De försök som gjordes efter 1813 var inte många och inte så framgångsrika. Den gyllene ostindiska tiden var definitivt slut, och den strålglans som omgett svenska ostindiefarare tillhörde nu en förgången tid."
+                },
+                {
+                    "subHeading":"Slutet för ostindiska kompaniet",
+                    "text": "Första skeppet hade avseglats 1732, och det sista anlöpte Göteborgs hamn i mars 1806. Alla fartyg kom inte tillbaka. Sammanlagt inträffade åtta förlisningar och strandningar, många människor offrades, dyra fartyg och laster gick till botten och kompaniet gjorde ekonomiska förluster. Det hade börjat knaka i fogarna. I början av 1800-talet beslutade riksdagen att kompaniet skulle få en extra beskattning. 1809 försattes kompaniet i konkurs. Den 29 maj 1813 hade kompaniet direktion sammanrått med regeringen och sammankallade till en bolagsstämma. Det beslutades att kompaniet skulle upplösas. Den ostindiska handeln blev nu fri för alla. Men det var nu inte längre tal om lättförtjänta pengar. De försök som gjordes efter 1813 var inte många och inte så framgångsrika. Den gyllene ostindiska tiden var definitivt slut, och den strålglans som omgett svenska ostindiefarare tillhörde nu en förgången tid."
+                },
+                {
+                    "subHeading": "Kompaniets mäktiga män:"
+                },
+                {
+                    "text": "<b>Niclas Sahlgren</b>, 1701 - 76 var en av de stora direktörerna i kompaniet, ekonomisk mäktig men också en märklig personlighet."
+                },
+                {
+                    "text": "<b>Claes Ahlströmer</b>, 1736 - 94, ingift i kompaniet med en dotter till Sahlgren, tillika framträdande kulturmecenat."
+                },
+                {
+                    "text": "<b>Patrick Alströmer</b>, 1733 - 1804, industriledare i Alingsås och kulturmecenat, invald i kompaniets direktion."
+                },
+                {
+                    "text": "<b>William Chalmers</b>, 1748 -1811, lade grunden till den tekniska högskola som fått hans namn. Som direktör i sista oktrojen arbetade Chalmers hårt för att få kompaniet på fötter."
+                },
+                {
+                    "text": "<b>Claes Grill</b>, 1705 -67, ledare av ett stort handelshus i Stockholm och inflytelserik direktör i kompaniet."
+                },
+                {
+                    "text": "<b>Johan Abraham Grill</b>, 1736 - 92 hade vistats en längre period i Kanton, innan han kom hem och så småningom blev direktör i kompaniet."
+                },
+                {
+                    "footnote": "Källa: Ostindiska kompaniet, Tore Frängsmyr"
+                }
+            ]
+        },
+        "techniques": {
+            "title": "Olika tekniker",
+            "paragraphs": [
+                {
+                    "subHeading": "Fondning",
+                    "text": "För att fonda använder man en stöpelsudd (tät sudd av skumplast) eller en så kallad stöpplare. Vid stora ytor är det bäst med en stöppelsudd. Finns på rulle något som kallas änglahud som kan läggas på stöppeln för extra fin fondning. För att avgränsa en yta använd täcklack. Det går också bra med speciell maskeringstejp för att avgränsa ytan. Tejp finns att köpa ibland i butiker som säljer ritmaterial. Stöppla med lätta tag tills ytan blir jämn. Ofta stöpplas ytan 2 gånger för att få ett djup i färgen."
+                },
+                {
+                    "subHeading": "Randning",
+                    "text": "Det är viktigt att porslinet står i mitten på randskivan. Doppa penseludden något i vatten och ta färg i penseln. Prova med olika penselstorlekar. Ju hårdare penseln trycks mot porslinet desto bredare linje. Randskiva finns att köpa i butiker som säljer porslinsmålningsmaterial."
+                },
+                {
+                    "subHeading": "Sprängning",
+                    "text": "Blanda fluss och målarmedia ganska tjockt och stöppla på porslinet. Strö sedan på glassand. Efter bränningen skrapas den spruckna porslinsytan bort. Det kan vara fint att lägga guld, silver eller lyster på en sprängd yta."
+                },
+                {
+                    "subHeading": "Sandning",
+                    "text": "Blanda glasfluss och målarmedia och stöppla på porslinet. Sanden ska sedan skrapas bort efter bränning och ger då en ojämn yta på porslinet. Ett sandarbete kan vara mycket effektfullt med olika sandsorter. Man kan även låta sanden sitta kvar på porslinet men då ska man stöppla med fluss blandat med målarmedia istället för glasfluss."
+                },
+                {
+                    "subHeading": "Textning och pennteckning",
+                    "text": "Vid textning använd en stålpenna. Blanda färgpulvret med hjälpmedia, textolja. Att texta snyggt kräver övning. Dra stålpennan långsamt så att färgen hinner rinna ur. Tryck inte för hårt då kan det komma för mycket färg."
+                },
+                {
+                    "subHeading": "Lyster",
+                    "text": "Lyster kräver snabbt handlag. Försök att arbeta över hela ytan som skall lystras. Stöppla till det \"smackar\". Tycker man att det torkar för snabbt använd en droppe lavendelolja i lystern. Lyster är inte vattenlöslig utan använd aceton vid rengöring."
+                },
+                {
+                    "subHeading": "Urskrap",
+                    "text": "Efter att ha lagt en fond och låtit den lufttorka kan man göra ett urskrap. Använd ett skrapstift och skrapa fram ett motiv, linjer etc. Borsta försiktigt bort stoftet med en torr pensel."
+                },
+                {
+                    "subHeading": "Guld och silver",
+                    "text": "Guld och silver köps i små flaskor och priset följer dagskursen. Om guldet torkar så använd lite förtunning. Gulet ska inte brännas för många gånger utan läggs ofta på till sista bränningen."
+                }
+            ]
+        },
+        "colorsAndMaterials": {
+            "title": "Färger och material",
+            "paragraphs": [
+                {
+                    "subHeading": "",
+                    "text": "Färgerna som används i porslinsmålning är specialfärger, pigment. De är transparanta. Färgen skall brännas i ca 800 grader. För att blanda färgen ta en vanlig vit  kakelplatta och placera en liten hög färgpulver på den. Blanda i 1/10 dels fluss om inte färgen innehåller detta. Detta gör färgen blankare vid bränning. Tillsätt några droppar målarmedium, vattenbaserad olja. Blanda detta med en palettkniv. Akta så att färgen inte blir för fet,  då kan den koka vid bränning. Arbeta färgen väl. Lysterfärger är metallskimrande färger som köps i små flaskor. Lyster är flytande och gulbrunt innan det är bränt. Lägger man två lysterfärger med bränning emellan kan det bli en ytterligare färgnyans. Lyster görs rent med aceton. Lyster läggs ofta 2 gånger."
+                },
+                {
+                    "text": "Man kan måla med guld och silver. De är täckande och är svåra att skilja på innan bränning då båda färgerna är svartbruna. Dammkorn kan ge fula spår, så se därför till att sitta och måla i en relativt dammfri miljö."
+                },
+                {
+                    "subHeading": "Glasmålning",
+                    "text": "Tekniken är detsamma som porslinsmålning. Det ända är att man ska använda sig av speciella glasfärger. De behövs inte läggas till fluss i. Och observera att glas bränns i ca 580 grader."
+                },
+                {
+                    "subHeading": "Färglära",
+                    "text": "En färg kan delas upp i en färgton, mättnad, intensitet och temperatur. Grundfärgerna i färgtoncirkeln kallas elementärfärger och är gul, röd, blå och grön. Två färger med maximal kontrast som ligger mittemot varandra i färgtoncirkeln kallas för komplementfärger. Färgtonen beskriver den faktiska färgen på ett föremål ex gult , rött."
+                },
+                {
+                    "text": "Om man blandar grundfärger så ger det upphov till flera sekundärfärger. Om man ex blandar gult och blått så blir sekundärfärgen grön. På detta sätt får man fram en färgtoncirkel. Ögat kan uppfatta upp till 150 nyanser. Valör är färgens svart- eller vithet. Valör syftar till graden av ljus- eller mörkhet beroende på hur mycket ljus som belyser den. Mättnad är en färgs renhet i fråga om dess maximala intensitet. Färgen är inte märkbart vit- eller svarthaltig utan har den största färgstyrkan."
+                },
+                {
+                    "text": "En ren mättad färg blir omättad om den blandas med en annan färg. Det färgsystem som används idag kallas NCS, Natural Colour System. NCS är ett logiskt färgsystem som bygger på hur människan ser färg. Med systemet kan alla tänkbara ytfärger beskrivas och ges en entydig beteckning. Det togs fram 1979. Det tog ca 20 år att utveckla systemet och bygger på att varje färg beskrivs vilken ton kulören har dvs var i färgtoncirkeln den är placerad."
+                },
+                {
+                    "text": "Det är NCS beteckningen som syns på färgproverna i butiken. Systemet utgår från de sex rena färger som är grunden för människans förmåga att karakterisera olika kulörer; vitt (W), svart (S), gult (Y), rött (R), blått (B) och grönt (G)."
+                },
+                {
+                    "text": "<b>Exempel:</b> \nHär är ett exempel på vad beteckningen står för. T ex I NCS beteckningen 2030-Y90R betyder 2030 nyansen, dvs graden av släktskap med svart S och maximalkulören C. I detta fall 20% svarthet (s) och 30% kulörthet (c). Kulörtonen Y90R anger förhållandet i procent mellan två kulörta elementarfärger, här Y respektive R. Y90R betyder gul med 90% rödhet. Rent grå färger saknar kulörton och betecknas endast med nyans-beteckningarna följt av -N för neutral. 0500-N är vit och följs av 1000-N, 1500-N, 2000-N osv till 9000-N som är svart. S före den kompletta NCS beteckningen (S 2030-Y90) innebär att NCS färgprovet är från Second Edition (Ed. 2)."
+                }
+            ]
+        },
+        "project": {
+            "title": "Följ ett projekt från början till slut",
+            "paragraphs": [
+                {
+                    "text": "Plötsligt dyker det upp en idé och jobbet att skissa på ett nytt projekt börjar. Varje projekt kräver en del förberedelse och kräver oftast 2-4 bränningar. Jag målade ett fat i våras där jag använde mig av lyster, sprängning och sand. Nedan kan Du följa detta projektet.",
+                    "images": [
+                        {
+                            "src": "IMG_1626.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 1"
+                        },
+                        {
+                            "src": "IMG_1627.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 2"
+                        },
+                        {
+                            "src": "IMG_1631.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 3"
+                        }
+                    ]
+                },
+                {
+                    "text": "Skissar först på ett smörpapper för att sedan föra över skissen till porslinet med stabilopennan. Jag täcklackar runt bladen som jag ska fonda med blå lyster. Lystern är inte vattenlöslig och måste städas bort med aceton. Det högra bladet lägger jag sprängning i.",
+                    "images": [
+                        {
+                            "src": "IMG_1636.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 4"
+                        },
+                        {
+                            "src": "IMG_1639.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 5"
+                        },
+                        {
+                            "src": "IMG_1642.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 6"
+                        }
+                    ]
+                },
+                {
+                    "text": "Efter noggrann städning och när täcklacken är borttagen är det dags att bränna första gången i 800 grader. Bilden i mitten visar resultatet efter första bränningen. Jag skrapar bort den sprängda ytan och täcklackar igen runt de blad, som ska fortsätta målas.",
+                    "images": [
+                        {
+                            "src": "IMG_1646.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 7"
+                        },
+                        {
+                            "src": "IMG_1650.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 8"
+                        },
+                        {
+                            "src": "IMG_1651.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 9"
+                        }
+                    ]
+                },
+                {
+                    "text": "Jag lystrar den sprängda ytan och även ett blad till för att få en nyansskillnad mot det vänstra bladet. Gör även en liten ram och förbereder för ett blad till i vänster nedre hörn.",
+                    "images": [
+                        {
+                            "src": "IMG_1652.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 10"
+                        },
+                        {
+                            "src": "IMG_1653.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 11"
+                        },
+                        {
+                            "src": "IMG_1655.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 12"
+                        }
+                    ]
+                },
+                {
+                    "text": "Lägger lyster även i ramen och täcklackar bladet i vänster hörn, där jag sandar, som jag sedan ska skrapa bort efter bränning.",
+                    "images": [
+                        {
+                            "src": "IMG_1660.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 13"
+                        },
+                        {
+                            "src": "IMG_1668.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 14"
+                        },
+                        {
+                            "src": "DSC_5953.jpg-for-web-small.jpg",
+                            "alt": "Porslinsmålning, steg 15"
+                        }
+                    ]
+                },
+                {
+                    "text": "Sanden är bränd och ska nu skrapas bort för att fonda silver på den sandade ytan. Jag målade hela tiden med samma blåa lyster, som gav olika skiftningar beroende på att jag använt mig av olika ytor med sandning, sprängning och ren porslinsyta. Efter fyra bränningar är fatet färdigt."
+                }
+            ]
+        },
+        "burning": {
+            "title": "Bränning",
+            "paragraphs": [
+                {
+                    "text": "Det målade porslinet ska brännas i ca 800 grader. Det finns många varianter av ugnar. Det är en fördel att ha termostat på ugnen, då stänger ugnen själv av sig när rätt temperatur är uppnådd. Jag har själv en toppmatad ugn på 40 liter (se bild).Den ugnen tycker jag är lagom om man har porslinsmålning som hobby. Har man ingen egen ugn kan man leta reda på en butik som säljer porslinsmålningsmaterial, ofta bränner de även porslin."
+                },
+                {
+                    "text": "Observera att glas bränns i ca 580 grader.",
+                    "images": [
+                        {
+                            "src": "ugn.jpg-for-web-small.jpg",
+                            "alt": "En ugn"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

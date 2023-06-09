@@ -47,6 +47,16 @@ body {
   overflow-x: hidden;
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  padding: 6rem 1rem 6rem 1rem;
+  width: 100%;
+  min-height: calc(100vh - 55px);
+  max-width: 720px;
+  margin: auto;
+}
+
 section {
   display: flex;
   flex-direction: column;
@@ -94,12 +104,12 @@ p {
   font-size: 1.2em;
   font-weight: 400;
   color: var(--text-color);
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
-
+/* 
 p:last-child {
   margin-bottom: 0;
-}
+} */
 
 b {
   font-weight: 600;
