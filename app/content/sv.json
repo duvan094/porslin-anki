@@ -8,23 +8,27 @@
             },
             {
                 "title": "Historia",
-                "href": "/history"
+                "href": "/historia"
             },
             {
                 "title": "Tekniker",
-                "href": "/techniques"
+                "href": "/tekniker"
             },
             {
                 "title": "Färg & material",
-                "href": "/colorsandmaterials"
+                "href": "/farg-och-material"
             },
             {
                 "title": "Projekt",
-                "href": "/project"
+                "href": "/projekt"
             },
             {
                 "title": "Bränning",
-                "href": "/burning"
+                "href": "/branning"
+            },
+            {
+                "title": "Litteratur",
+                "href": "/litteratur"
             }
         ]
     },
@@ -38,7 +42,7 @@
                 {"text": "Titta gärna in i mitt galleri och se vad jag har målat genom åren. Hoppas Du hitter något av intresse. Alla bilder på hemsidan är mina egna. Skriv gärna i min gästbok eller skicka e-mail till anki@miac.se"}
             ]
         },
-        "history": {
+        "historia": {
             "title": "Porslinshistoria - Ostindiska kompaniet",
             "paragraphs": [
                 {
@@ -122,7 +126,7 @@
                 }
             ]
         },
-        "techniques": {
+        "tekniker": {
             "title": "Olika tekniker",
             "paragraphs": [
                 {
@@ -159,7 +163,7 @@
                 }
             ]
         },
-        "colorsAndMaterials": {
+        "farg-och-material": {
             "title": "Färger och material",
             "paragraphs": [
                 {
@@ -191,7 +195,7 @@
                 }
             ]
         },
-        "project": {
+        "projekt": {
             "title": "Följ ett projekt från början till slut",
             "paragraphs": [
                 {
@@ -284,7 +288,7 @@
                 }
             ]
         },
-        "burning": {
+        "branning": {
             "title": "Bränning",
             "paragraphs": [
                 {
@@ -296,6 +300,44 @@
                         {
                             "src": "ugn.jpg-for-web-small.jpg",
                             "alt": "En ugn"
+                        }
+                    ]
+                }
+            ]
+        },
+        "litteratur": {
+            "title": "Porslins- och glasmålningens litteratur",
+            "paragraphs": [
+                {
+                    "text": "Här är några tips på böcker med ämnet porslin- och glasmålning.",
+                    "images": [
+                        {
+                            "src": "bok3.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "bok1.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "bok5.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "bok2.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "bok4.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "bok6.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "bok7.jpg-for-web-small.jpg",
+                            "alt": ""
                         }
                     ]
                 }
