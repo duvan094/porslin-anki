@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap');
+
+/* semantic color variables for this project */
+:root {
+  --main-bg-color: #FAFFFD;
+  
+  --link-color: #508484;
+  --link-color-opacity: #508484EE;
+  --link-color-hover: #2e5050;
+  --text-color: #0C0F0A;
+
+  --mobile-max-width: 720px;
+  --box-shadow: 0 5px 10px 0 rgba(0,0,0,.15);
+  --box-shadow-dark-theme: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+  outline: none;
+  font-family: 'Figtree', sans-serif;
+}
+
+::-moz-selection { /* Code for Firefox */
+  color: var(--main-bg-color);
+  background: var(--text-color);
+}
+
+::selection {
+  color: var(--main-bg-color);
+  background: var(--text-color);
+}
+
+body {
+  min-height: 100vh;
+  line-height: 1.4;
+  font-family: 'Figtree', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--main-bg-color);
+  overflow-x: hidden;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  width: 100%;
+}
+
+section:last-child {
+  margin-bottom: 0;
+}
+
+section:first-child {
+  margin-top: 0;
+}
+
+section:first-child {
+  margin-top: 0;
+}
+
+h1, h2, h3, h4 {
+  color: var(--text-color);
+  font-weight: 700;
+  margin-bottom: .5rem;
+}
+
+h1, .h1 {
+  font-size: 2.1em;
+}
+h2, .h2 {
+  font-size: 1.8em;
+}
+h3, .h3 {
+  font-size: 1.6em;
+  font-weight: 600;
+}
+
+h4, .h4, .subHeading {
+  font-size: 1.4em;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.2em;
+  font-weight: 400;
+  color: var(--text-color);
+  margin-bottom: 1rem;
+}
+
+p:last-child {
+  margin-bottom: 0;
+}
+
+b {
+  font-weight: 600;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+ul > li {
+  list-style: none;
+  margin-bottom: .3em;
+  font-size: 1.2em;
+}
+
+ul > li:last-child {
+  margin-bottom: 0;
+}
+
+
+ul > li::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: -15px;
+  transform: translateY(-50%);
+  width: .4rem;
+  height: .4rem;
+  background: var(--text-color);
+  border-radius: 50%;
+}
+
+a, .link-button {
+  position: relative;
+  text-decoration: none;
+  align-self: flex-start;
+  font-weight: 600;
+  font-size: 1.2em;
+  color: var(--link-color);
+  fill: var(--link-color);
+  outline: none;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+p > a, p > .link-button {
+  font-size: inherit;
+} 
+
+a:before, .link-button:before {
+  content: '';
+  display: block;
+  width: 100%;
+  min-height: 2px;
+  height: 0.09em;
+  background-color: var(--link-color);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  will-change: transform;
+  transform: scaleX(0);
+  transition: .2s ease transform;
+  transform-origin: left;
+}
+
+a:after, button:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -5px;
+  bottom: -5px;
+  left: -10px;
+  right: -10px;
+  border-radius: 3px;
+  border: 3px solid var(--link-color);
+  opacity: 0;
+  transition: .1s ease-out opacity;
+}
+
+@media(min-width: 720px) {
+  h1, .h1 {
+    font-size: 3em;
+  }
+  h2, .h2 {
+    font-size: 2em;
+  }
+  h3, .h3 {
+    font-size: 1.8em;
+  }
+  h4, .h4, .subHeading {
+    font-size: 1.6em;
+  }
+  
+  p, a, .link-button, ul > li {
+    font-size: 1.4em;
+  }
+
+  p > a, p > .link-button {
+    font-size: inherit;
+  }
+}
+
+a:hover, .link-button:hover{
+  color: var(--link-color-hover);
+  fill: var(--link-color-hover);
+}
+
+a:hover:before, .link-button:hover:before{
+  background-color: var(--link-color-hover);
+}
+
+@media (hover: hover) {
+  a:hover:before, .link-button:hover:before{
+    transform: scaleX(1);
+  }
+
+  a:focus-visible:after, button:focus-visible:after {
+    opacity: 1; 
+  }
+}
+
+.sr-only{
+  display: none;
+}
