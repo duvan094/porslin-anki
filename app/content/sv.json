@@ -47,7 +47,19 @@
                 {"text": "Välkomna till Dig som hittat till min hemsida om porslin- och glasmålning. Jag började måla porslin en höstdag -91 och har sen dess ägnat många timmar åt detta intresse. Senare år har jag även provat på lite glasmålning."},
                 {"text": "Jag har haft hemsida i många år om porslinsmålning och haft många besökare. Hemsidan har även varit omnämnd i \"PC för Alla\". Jag har samlat fakta om tekniker, färger och färglära, material, tips om bränning, bra länkar och lite till. Följ ett av mina målningsprojekt från början till färdigt resultat. Jag har ändrat layout och bytt hemsideadress och hoppas många hittar hit. I våras var jag i Berlin och besökte bl a porslinsfabriken KPM - Königliche Porzellan Manufaktur  och slottet Charlottenburg. Titta gärna in under Berlin länken för att se bilder där ifrån."},
                 {"text": "Jag målar med ett trevligt gäng i Floda sen länge. Vi träffas varje vecka och målar ihop och utbyter ideér och erfarenheter. Vi har haft några utställningar i Lerum, Floda och i Alingsås bl a. Vi är alla medlemmar i Svenska Porslinsmålningsförbundet, som ordnar både veckoslutskurser och sommarkurser."},
-                {"text": "Titta gärna in i mitt galleri och se vad jag har målat genom åren. Hoppas Du hitter något av intresse. Alla bilder på hemsidan är mina egna. Skriv gärna i min gästbok eller skicka e-mail till anki@miac.se"}
+                {
+                    "text": "Titta gärna in i mitt galleri och se vad jag har målat genom åren. Hoppas Du hitter något av intresse. Alla bilder på hemsidan är mina egna. Skriv gärna i min gästbok eller skicka e-mail till anki@miac.se",
+                    "images": [
+                        {
+                            "src": "penslar.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "malarlad.jpg-for-web-small.jpg",
+                            "alt": ""
+                        }
+                    ]
+                }
             ]
         },
         "historia": {
