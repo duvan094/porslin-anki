@@ -5,10 +5,10 @@ export default function NotFound() {
   return (
     <main>
       <section>
-          <h1>404 - Page Not Found :(</h1>
-          <p>We couldn't find the page you were looking for...</p>
+          <h1>404 - Sidan hittades ej :(</h1>
+          <p>Vi kunde inte hitta sidan du letade efter...</p>
           <Link href="/">
-              Go back home
+              Gå tillbaks till startsidan
           </Link>
       </section>
     </main>
