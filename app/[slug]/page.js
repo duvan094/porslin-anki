@@ -6,11 +6,14 @@ import MainContent from '../components/mainContent'
 import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
 
-// Page.getInitialProps = async (ctx) => {
-//   return {
-//     props: {},
-//   };
-// }
+Page.getInitialProps = async (ctx) => {
+
+  console.log('ctx', ctx)
+
+  return {
+    props: {},
+  };
+}
 
 export default function Page(params) {
 
