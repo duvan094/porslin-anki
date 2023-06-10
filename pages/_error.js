@@ -1,19 +1,18 @@
 import { useEffect } from "react"
 
-function Error({error, statusCode, res}) {
+function Error(error) {
 
     useEffect(()=>{
         console.log('error', error)
-        console.log('res', res)
-    })
+    },[])
 
 
     return (
         <main>
             <section>
                 <p>
-                    {statusCode
-                    ? `An error ${statusCode} occurred on server`
+                    {error.statusCode
+                    ? `An error ${error.statusCode} occurred on server`
                     : 'An error occurred on client'}
                 </p>
             </section>
