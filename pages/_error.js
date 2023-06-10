@@ -1,9 +1,9 @@
 import { useEffect } from "react"
 
-function Error(error) {
+function Error(message) {
 
     useEffect(()=>{
-        console.log('error', error)
+        console.log(message)
     },[])
 
 
@@ -11,8 +11,8 @@ function Error(error) {
         <main>
             <section>
                 <p>
-                    {error.statusCode
-                    ? `An error ${error.statusCode} occurred on server`
+                    {message.statusCode
+                    ? `An error ${message.statusCode} occurred on server`
                     : 'An error occurred on client'}
                 </p>
             </section>
@@ -22,7 +22,7 @@ function Error(error) {
    
   Error.getInitialProps = ({ res, error }) => {
     const statusCode = res ? res.statusCode : error ? error.statusCode : 404
-    return { error, statusCode, res }
+    return { statusCode, res }
   }
    
   export default Error
