@@ -20,13 +20,13 @@ export default function Page(params) {
     useEffect(()=>{
       console.log('params', params)
       // console.log(getContent(params.slug))
-      // setContent(getContent(params.slug))
+      setContent(getContent(params.slug))
     },[])
 
     return (
       <>
         {
-          // typeof content === 'boolean' && !content ? <NotFound></NotFound> : <MainContent content={content} />
+          typeof content === 'boolean' && !content ? <NotFound></NotFound> : <MainContent content={content} />
         }
 
         <h1>Page with slug!</h1>
