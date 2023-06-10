@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 
-function Error({error, statusCode}) {
+function Error({error, statusCode, res}) {
 
     useEffect(()=>{
         console.log('error', error)
