@@ -3,8 +3,8 @@ const nextConfig = {
     async rewrites() {
         return [
           {
-            source: '/historia',
-            destination: '/',
+            source: '/:path*',
+            destination: '/:path*',
           },
         ]
       },
