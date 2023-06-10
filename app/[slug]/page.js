@@ -1,38 +1,16 @@
-// 'use client'
-
 import MainContent from '../components/mainContent'
-
-// import { useState, useEffect } from 'react'
 import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
 
-Page.getInitialProps = async (ctx) => {
+export default function Page({params}) {
 
-  console.log('ctx', ctx)
-
-  return {
-    props: {},
-  };
-}
-
-export default function Page(params) {
-
-//    const [content, setContent] = useState()
-
-    // useEffect(()=>{
-    //   console.log('params', params)
-    //   // console.log(getContent(params.slug))
-    //   // setContent(getContent(params.slug))
-    // },[])
+    const content = getContent(params.slug)
 
     return (
       <>
         {
-          // typeof content === 'boolean' && !content ? <NotFound></NotFound> : <MainContent content={content} />
-        }
-
-        <h1>Page with slug!</h1>
-        
+          typeof content === 'boolean' && !content ? <NotFound></NotFound> : <MainContent content={content} />
+        }        
       </>
     )
 }
@@ -70,4 +48,3 @@ export async function getStaticPaths() {
     fallback: true,
   };
 }
-
