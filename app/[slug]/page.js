@@ -52,7 +52,7 @@ export async function getStaticPaths() {
       params: { slug: "branning" },
     },
     {
-      params: { slug: "utlykter" },
+      params: { slug: "utflykter" },
     },
     {
       params: { slug: "tekniker" },
