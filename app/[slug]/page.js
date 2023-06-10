@@ -1,8 +1,8 @@
-'use client'
+// 'use client'
 
 import MainContent from '../components/mainContent'
 
-import { useState, useEffect } from 'react'
+// import { useState, useEffect } from 'react'
 import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
 
@@ -14,13 +14,13 @@ import NotFound from '../components/notFound'
 
 export default function Page(params) {
 
-    const [content, setContent] = useState()
+//    const [content, setContent] = useState()
 
-    useEffect(()=>{
-      console.log('params', params)
-      // console.log(getContent(params.slug))
-      // setContent(getContent(params.slug))
-    },[])
+    // useEffect(()=>{
+    //   console.log('params', params)
+    //   // console.log(getContent(params.slug))
+    //   // setContent(getContent(params.slug))
+    // },[])
 
     return (
       <>
@@ -37,13 +37,13 @@ export default function Page(params) {
 export async function getStaticPaths() {
   const paths = [
     {
-      params: { slug: ['historia'] },
+      params: { slug: 'historia' },
     },
     {
-      params: { slug: ["galleri"] },
+      params: { slug: "galleri" },
     },
     {
-      params: { slug: ["projekt"] },
+      params: { slug: "projekt" },
     },
   ];
 
