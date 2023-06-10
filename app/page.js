@@ -1,14 +1,21 @@
 'use client'
 
-import content from './content/sv.json'
-
 import MainContent from './components/mainContent'
 
-export default function Page() {
+import { useState } from 'react'
+import { getContent } from './content/getContent'
+import NotFound from './components/notFound'
+
+export default function Page({ params }) {
+
+    const [content, setContent] = useState(getContent(params?.slug))
 
     return (
       <>
-        <MainContent content={content.pages.landingPage} />
+        {
+          content ? <MainContent content={content} /> : <NotFound></NotFound>
+        }
+        
       </>
     )
 }
