@@ -13,11 +13,12 @@ Page.getInitialProps = async (ctx) => {
   };
 }
 
-export default function Page({ params }) {
+export default function Page(params) {
 
     const [content, setContent] = useState()
 
     useEffect(()=>{
+      console.log('params', params)
       // setContent(getContent(params.slug))
     },[])
 
