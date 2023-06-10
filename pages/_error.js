@@ -4,6 +4,7 @@ function Error({error, statusCode}) {
 
     useEffect(()=>{
         console.log('error', error)
+        console.log('res', res)
     })
 
 
@@ -22,7 +23,7 @@ function Error({error, statusCode}) {
    
   Error.getInitialProps = ({ res, error }) => {
     const statusCode = res ? res.statusCode : error ? error.statusCode : 404
-    return { error, statusCode }
+    return { error, statusCode, res }
   }
    
   export default Error
