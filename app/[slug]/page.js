@@ -7,6 +7,13 @@ import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
 
 
+export async function getStaticPaths() {
+  return {
+    paths: [{ params: { id: 'projekt' } }, { params: { id: 'historia' } }, { params: { id: 'tekniker' } }, { params: { id: 'historia' } }],
+    fallback: false,
+  };
+}
+
 Page.getInitialProps = async (ctx) => {
   return {
     props: {},
