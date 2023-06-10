@@ -6,19 +6,11 @@ import { useState, useEffect } from 'react'
 import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
 
-
-Page.getStaticPaths = async () => {
-  return {
-    paths: [{ params: { id: 'projekt' } }, { params: { id: 'historia' } }, { params: { id: 'tekniker' } }, { params: { id: 'historia' } }],
-    fallback: false,
-  };
-}
-
-Page.getInitialProps = async (ctx) => {
-  return {
-    props: {},
-  };
-}
+// Page.getInitialProps = async (ctx) => {
+//   return {
+//     props: {},
+//   };
+// }
 
 export default function Page(params) {
 
@@ -40,4 +32,23 @@ export default function Page(params) {
         
       </>
     )
+}
+
+export async function getStaticPaths() {
+  const paths = [
+    {
+      params: { slug: ['historia'] },
+    },
+    {
+      params: { slug: ["galleri"] },
+    },
+    {
+      params: { slug: ["projekt"] },
+    },
+  ];
+
+  return {
+    paths,
+    fallback: false,
+  };
 }
