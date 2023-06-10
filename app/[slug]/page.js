@@ -15,16 +15,16 @@ Page.getInitialProps = async (ctx) => {
 
 export default function Page({ params }) {
 
-    useEffect(()=>{
-      console.log('params', params)
-    })
+    const [content, setContent] = useState()
 
-    const [content, setContent] = useState(getContent(params.slug))
+    useEffect(()=>{
+      setContent(getContent(params.slug))
+    },[])
 
     return (
       <>
         {
-          content ? <MainContent content={content} /> : <NotFound></NotFound>
+          typeof content === 'boolean' && !content ? <NotFound></NotFound> : <MainContent content={content} />
         }
         
       </>
