@@ -1,11 +1,11 @@
 'use client'
 
-import { Fragment } from 'react'
+import { Fragment, useEffect } from 'react'
 import ImageGroup from './imageGroup'
 
 export default function MainContent({ content }) {
     
-    const paragraphs = content.paragraphs.map((paragraph, index) => (
+    const paragraphs = content?.paragraphs?.map((paragraph, index) => (
         <Fragment key={index}>  
             { paragraph?.subHeading && <h2>{paragraph.subHeading}</h2>}
             { paragraph?.text && <p dangerouslySetInnerHTML={{__html: paragraph.text}}></p>}
@@ -17,7 +17,7 @@ export default function MainContent({ content }) {
     return (
       <main>
         { content?.title && <h1>{ content.title }</h1>}
-        { paragraphs }
+        { content?.paragraphs && paragraphs }
       </main>
     )
   }
