@@ -45,10 +45,26 @@ export async function getStaticPaths() {
     {
       params: { slug: "projekt" },
     },
+    {
+      params: { slug: "litteratur" },
+    },
+    {
+      params: { slug: "branning" },
+    },
+    {
+      params: { slug: "utlykter" },
+    },
+    {
+      params: { slug: "tekniker" },
+    },
+    {
+      params: { slug: "farg-och-material" },
+    },
   ];
 
   return {
     paths,
-    fallback: false,
+    fallback: true,
   };
 }
+
