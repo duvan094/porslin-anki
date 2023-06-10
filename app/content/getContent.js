@@ -8,7 +8,7 @@ export function getContent(path) {
         return content.pages.landingPage
     }
 
-    if(typeof content.pages[path] === "undefined" || !content.pages[path]) {
+    if(typeof content.pages[path.toLowerCase()] === "undefined" || !content.pages[path.toLowerCase()]) {
         return false
     }
 

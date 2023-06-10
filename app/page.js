@@ -2,27 +2,17 @@
 
 import MainContent from './components/mainContent'
 
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import { getContent } from './content/getContent'
 import NotFound from './components/notFound'
 
+export default function Page() {
 
-Page.getInitialProps = async (ctx) => {
-  return {
-    props: {},
-  };
-}
-
-export default function Page({searchParams}) {
-
-    const [content, setContent] = useState(getContent(searchParams?.path?.length ? searchParams?.path[0] : null))
+    const [content, setContent] = useState(getContent('landingpage'))
 
     return (
       <>
-        {
-          content ? <MainContent content={content} /> : <NotFound></NotFound>
-        }
-        
+        <MainContent content={content} />
       </>
     )
 }
