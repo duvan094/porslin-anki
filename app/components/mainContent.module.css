@@ -3,8 +3,8 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: center;
-    margin: 0 -1rem;
+    justify-content: flex-start;
+    margin: 0 -.5rem;
     margin-bottom: 2rem;
 }
 
@@ -12,18 +12,22 @@
     display: flex;
     opacity: 0;
     transition: .5s ease-out opacity;
-    border-radius: 10px;
     overflow: hidden;
-    margin: 1rem;
-    max-height: 200px;
+    margin: .5rem;
+}
+
+.imageColumn {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
 }
 
 .imageWrapper {
-    width: calc(100% / 2);
+    width: 100%;
 }
 
 @media(min-width: 720px) {
-    .imageWrapper {
+    .imageColumn {
         width: calc(100% / 3);
     }
 }
