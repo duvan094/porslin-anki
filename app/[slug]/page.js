@@ -7,7 +7,7 @@ import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
 
 
-export async function getStaticPaths() {
+Page.getStaticPaths = async () => {
   return {
     paths: [{ params: { id: 'projekt' } }, { params: { id: 'historia' } }, { params: { id: 'tekniker' } }, { params: { id: 'historia' } }],
     fallback: false,
