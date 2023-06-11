@@ -1,7 +1,7 @@
 'use client'
 
 import LazyLoadImage from './lazyLoadImage'
-import styles from './mainContent.module.css'
+import styles from './imageGroup.module.css'
 
 export default function ImageGroup(props) {
     

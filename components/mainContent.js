@@ -2,6 +2,8 @@
 
 import { Fragment } from 'react'
 import ImageGroup from './imageGroup'
+import copy from '../content/sv.json'
+import styles from './mainContent.module.css'
 
 export default function MainContent({ content }) {
     
@@ -17,6 +19,7 @@ export default function MainContent({ content }) {
     return (
       <main>
         { content?.title && <h1>{ content.title }</h1>}
+        { content?.author && <small className={styles.authorContainer}>{copy.common.author} <span className={styles.authorTitle}>{ content.author }</span></small>}
         { content?.paragraphs && paragraphs }
       </main>
     )

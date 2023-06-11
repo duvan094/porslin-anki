@@ -1,0 +1,25 @@
+.imageContainer {
+    display: flex;
+    opacity: 0;
+    transition: .5s ease-out opacity;
+    overflow: hidden;
+    margin: .5rem;
+}
+
+.imageWrapper {
+    width: 100%;
+}
+
+.imageContainer {
+    border-radius: 10px;
+}
+
+.imageContainer img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.imageContainer.loaded {
+    opacity: 1;
+}

@@ -1,0 +1,34 @@
+
+.images {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0 -.5rem;
+    margin-bottom: 2rem;
+}
+
+.imageColumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.imageColumn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+@media(min-width: 720px) {
+
+    .imageColumn {
+        width: calc(100% / 3);
+    }
+
+    .imageColumn {
+        display: flex;
+        flex-direction: column;
+    }
+}

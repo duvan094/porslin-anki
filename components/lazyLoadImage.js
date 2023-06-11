@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import styles from './mainContent.module.css'
+import styles from './lazyLoadImage.module.css'
 
 export default function LazyLoadImage({image}) {
 
