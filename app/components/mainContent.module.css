@@ -19,17 +19,41 @@
 .imageColumn {
     display: flex;
     flex-direction: column;
+}
+
+.imageColumn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 100%;
 }
+
 
 .imageWrapper {
     width: 100%;
+    width: calc(100%);
+    /* max-width: 300px; */
 }
 
 @media(min-width: 720px) {
+    .imageWrapper {
+        width: 100%;
+    }
+
     .imageColumn {
         width: calc(100% / 3);
     }
+
+    .imageColumn {
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
+
+.imageContainer {
+    border-radius: 10px;
+    /* box-shadow: var(--box-shadow); */
 }
 
 .imageContainer img {
