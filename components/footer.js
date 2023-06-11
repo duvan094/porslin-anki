@@ -17,8 +17,12 @@ export default function Footer() {
 
   return (
     <footer className={styles.footer}>
-        <div className={styles.footerLinks}>{ links }</div>
-        <small>{ content.common.footnote }</small>
+        <div className={styles.siteMap}>
+          <div className={`${styles.footerLinks} ${styles.wrapper}`}>{ links }</div>
+        </div>
+        <div className={styles.wrapper}>
+          <small><b>{ content.common.footnote }</b></small>
+        </div>
     </footer>
   )
 }
