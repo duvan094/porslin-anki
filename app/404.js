@@ -1,6 +1,6 @@
 'use client'
 
-import NotFound from './components/notFound'
+import NotFound from '../components/notFound'
 
 export default function Page({ params }) {
 
@@ -9,7 +9,6 @@ export default function Page({ params }) {
         {
           <NotFound></NotFound>
         }
-        
       </>
     )
 }

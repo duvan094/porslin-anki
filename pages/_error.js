@@ -1,11 +1,14 @@
 import { useEffect } from "react"
 import { useRouter } from 'next/router'
+import NotFound from '../components/notFound'
 
 function Error(message) {
     const router = useRouter()
 
     useEffect(()=>{
-        console.log(message)
+        console.log(`${message.statusCode
+            ? `An error ${message.statusCode} occurred on server`
+            : 'An error occurred on client'}`)
         router.push('/')
     },[])
 
@@ -13,11 +16,7 @@ function Error(message) {
     return (
         <main>
             <section>
-                <p>
-                    {message.statusCode
-                    ? `An error ${message.statusCode} occurred on server`
-                    : 'An error occurred on client'}
-                </p>
+                <NotFound></NotFound>
             </section>
         </main>
     )
