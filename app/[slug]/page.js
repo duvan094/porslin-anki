@@ -1,10 +1,25 @@
 import MainContent from '../components/mainContent'
 import { getContent } from '../content/getContent'
 import NotFound from '../components/notFound'
+// import { useRouter } from 'next/router'
 
 export default function Page({params}) {
 
+    // const router = useRouter()   
+    // // If the page is getting generated  
+    // if (router.isFallback) {
+    //   return <div>Fallback...</div>
+    // }    
+
     const content = getContent(params?.slug)
+
+    if(!content) {
+      return (
+        <>
+          <h1>Sidan hittades ej</h1>
+        </>
+      )
+    }
 
     return (
       <>
@@ -45,6 +60,6 @@ export async function getStaticPaths() {
 
   return {
     paths,
-    fallback: false,
+    fallback: "blocking",
   };
 }
