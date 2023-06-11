@@ -47,10 +47,10 @@
             "author": "Ann-Christine",
             "paragraphs": [
                 {"text": "Välkomna till Dig som hittat till min hemsida om porslin- och glasmålning. Jag började måla porslin en höstdag -91 och har sen dess ägnat många timmar åt detta intresse. Senare år har jag även provat på lite glasmålning."},
-                {"text": "Jag har haft hemsida i många år om porslinsmålning och haft många besökare. Hemsidan har även varit omnämnd i \"PC för Alla\". Jag har samlat fakta om tekniker, färger och färglära, material, tips om bränning, bra länkar och lite till. Följ ett av mina målningsprojekt från början till färdigt resultat. Jag har ändrat layout och bytt hemsideadress och hoppas många hittar hit. I våras var jag i Berlin och besökte bl a porslinsfabriken KPM - Königliche Porzellan Manufaktur  och slottet Charlottenburg. Titta gärna in under Berlin länken för att se bilder där ifrån."},
-                {"text": "Jag målar med ett trevligt gäng i Floda sen länge. Vi träffas varje vecka och målar ihop och utbyter ideér och erfarenheter. Vi har haft några utställningar i Lerum, Floda och i Alingsås bl a. Vi är alla medlemmar i Svenska Porslinsmålningsförbundet, som ordnar både veckoslutskurser och sommarkurser."},
+                {"text": "Jag har haft hemsida i många år om porslinsmålning och haft många besökare. Hemsidan har även varit omnämnd i \"PC för Alla\". Jag har samlat fakta om tekniker, färger och färglära, material, tips om bränning, bra länkar och lite till. Följ ett av mina <a href='/projekt'>målningsprojekt</a> från början till färdigt resultat. Jag har ändrat layout och bytt hemsideadress och hoppas många hittar hit. I våras var jag i <a href='/utflykter'>Berlin</a> och besökte bl a porslinsfabriken KPM - Königliche Porzellan Manufaktur  och slottet Charlottenburg. Titta gärna in under Berlin länken för att se bilder där ifrån."},
+                {"text": "Jag målar med ett trevligt gäng i Floda sen länge. Vi träffas varje vecka och målar ihop och utbyter ideér och erfarenheter. Vi har haft några utställningar i Lerum, Floda och i Alingsås bl a. Vi är alla medlemmar i Svenska <a href='https://porslinsmalningsforbundet.se/' target='_blank'>Porslinsmålningsförbundet</a>, som ordnar både veckoslutskurser och sommarkurser."},
                 {
-                    "text": "Titta gärna in i mitt galleri och se vad jag har målat genom åren. Hoppas Du hittar något av intresse. Alla bilder på hemsidan är mina egna. Skriv gärna i min gästbok eller skicka e-mail till anki@miac.se",
+                    "text": "Titta gärna in i min <a href='/galleri'>galleri</a> och se vad jag har målat genom åren. Hoppas Du hittar något av intresse. Alla bilder på hemsidan är mina egna. Skriv gärna i min gästbok eller skicka e-mail till anki@miac.se",
                     "images": [
                         {
                             "src": "penslar.jpg",
@@ -66,6 +66,7 @@
         },
         "historia": {
             "title": "Porslinshistoria - Ostindiska kompaniet",
+            "author": "Ann-Christine",
             "paragraphs": [
                 {
                     "text": "På 900-talet skapades det första porslinet i Kina. Men det var först på 1200-talet som porslinet kom till Europa. Det var den upptäcksresande Marco Polo som besökte Kina på 1200-talet och tog med sig det första porslinet till Europa. Han gav det namnet porslin efter porslinssnäckan. Med tiden inleddes en omfattande handel mellan Kina och Europa. Det var stor efterfrågan på det \"Vita guldet\". Hur porslinet skapades förblev en hemlighet till alkemisten Johann Friederich Böttger kom på hur man gjorde fältspatsporslin år 1708. Då han upptäckt detta spärrades han i på slottet Albrechtsburg i Meissen för att hemligheten inte skulle läcka ut. Så småningom grundades flera fabriker runt om i Europa. Man framställde porslin efter kinesiska förebilder. Porslin var dyrt så det var mest furstuhus och adel som hade råd att köpa."
