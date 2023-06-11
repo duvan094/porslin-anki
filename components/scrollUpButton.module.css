@@ -1,0 +1,42 @@
+.scrollUpButton {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 2rem;
+    z-index: 999;
+
+    cursor: pointer;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border: none;
+    padding: 0;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: var(--link-color);
+    color: var(--main-bg-color);
+    transition: .2s ease-out background-color, .2s ease-out opacity, .2s ease-out transform;
+    opacity: 0;
+    transform: scale(0.8);
+    transform-origin: center bottom;
+}
+
+.scrollUpButton svg {
+    width: 100%;
+    height: auto;
+    pointer-events: none;
+    stroke: var(--main-bg-color);
+}
+
+.scrollUpButton.visible {
+    opacity: 1;
+    transform: scale(1);
+}
+
+.scrollUpButton:hover {
+    background-color: var(--link-color-hover);
+}
