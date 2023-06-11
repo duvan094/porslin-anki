@@ -1,9 +1,12 @@
 import { useEffect } from "react"
+import { useRouter } from 'next/router'
 
 function Error(message) {
+    const router = useRouter()
 
     useEffect(()=>{
         console.log(message)
+        router.push('/')
     },[])
 
 

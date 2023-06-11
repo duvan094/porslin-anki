@@ -1,6 +1,6 @@
 'use client'
 
-import { Fragment, useEffect } from 'react'
+import { Fragment } from 'react'
 import ImageGroup from './imageGroup'
 
 export default function MainContent({ content }) {

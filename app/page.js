@@ -4,7 +4,6 @@ import MainContent from './components/mainContent'
 
 import { useState } from 'react'
 import { getContent } from './content/getContent'
-import NotFound from './components/notFound'
 
 export default function Page() {
 
