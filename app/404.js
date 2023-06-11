@@ -6,7 +6,10 @@ export default function Page({ params }) {
 
     return (
       <>
-        <NotFound></NotFound>
+        {
+          <NotFound></NotFound>
+        }
+        
       </>
     )
 }

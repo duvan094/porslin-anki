@@ -4,7 +4,7 @@ import NotFound from '../components/notFound'
 
 export default function Page({params}) {
 
-    const content = getContent(params.slug)
+    const content = getContent(params?.slug)
 
     return (
       <>
