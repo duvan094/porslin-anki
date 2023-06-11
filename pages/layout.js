@@ -1,16 +1,9 @@
-'use-client'
-
 import '../app/globals.css'
 import { Inter } from 'next/font/google'
 import Header from '../components/header'
 import Footer from '../components/footer'
 
 const inter = Inter({ subsets: ['latin'] })
-
-export const metadata = {
-  title: 'Porslinsmålning',
-  description: 'En sida om porslinsmålning. Innehåll av Ann-Christine Duvander.',
-}
 
 export default function RootLayout({ children }) {
   return (
