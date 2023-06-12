@@ -15,11 +15,7 @@ function Error(message) {
 
 
     return (
-        <main>
-            <section>
-                <NotFound></NotFound>
-            </section>
-        </main>
+        <NotFound></NotFound>
     )
   }
    
