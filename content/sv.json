@@ -136,7 +136,37 @@
                     "text": "<b>Claes Grill</b>, 1705 -67, ledare av ett stort handelshus i Stockholm och inflytelserik direktör i kompaniet."
                 },
                 {
-                    "text": "<b>Johan Abraham Grill</b>, 1736 - 92 hade vistats en längre period i Kanton, innan han kom hem och så småningom blev direktör i kompaniet."
+                    "text": "<b>Johan Abraham Grill</b>, 1736 - 92 hade vistats en längre period i Kanton, innan han kom hem och så småningom blev direktör i kompaniet.",
+                    "images": [
+                        {
+                            "src": "IMG_2772.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "IMG_3154.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "IMG_3163.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "IMG_3164.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "IMG_3167.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "IMG_3171.jpg-for-web-small.jpg",
+                            "alt": ""
+                        },
+                        {
+                            "src": "IMG_3172.jpg-for-web-small.jpg",
+                            "alt": ""
+                        }
+                    ]
                 },
                 {
                     "footnote": "Källa: Ostindiska kompaniet, Tore Frängsmyr"
