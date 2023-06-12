@@ -54,11 +54,13 @@
                     "images": [
                         {
                             "src": "penslar.jpg",
-                            "alt": ""
+                            "alt": "",
+                            "shadow": false
                         },
                         {
                             "src": "malarlad.jpg-for-web-small.jpg",
-                            "alt": ""
+                            "alt": "",
+                            "shadow": false
                         }
                     ]
                 }
@@ -326,7 +328,8 @@
                     "images": [
                         {
                             "src": "ugn.jpg-for-web-small.jpg",
-                            "alt": "En ugn"
+                            "alt": "En ugn",
+                            "shadow": false
                         }
                     ]
                 }

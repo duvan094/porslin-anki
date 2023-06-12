@@ -18,9 +18,11 @@ export default function MainContent({ content }) {
 
     return (
       <main>
-        { content?.title && <h1>{ content.title }</h1>}
-        { content?.author && <small className={styles.authorContainer}>{copy.common.author} <span className={styles.authorTitle}>{ content.author }</span></small>}
-        { content?.paragraphs && paragraphs }
+        <div className='mainWrapper'>
+          { content?.title && <h1>{ content.title }</h1>}
+          { content?.author && <small className={styles.authorContainer}>{copy.common.author} <span className={styles.authorTitle}>{ content.author }</span></small>}
+          { content?.paragraphs && paragraphs }
+        </div>
       </main>
     )
   }

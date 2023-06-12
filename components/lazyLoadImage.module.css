@@ -12,6 +12,7 @@
 
 .imageContainer {
     border-radius: 10px;
+    box-shadow: var(--box-shadow);
 }
 
 .imageContainer img {
@@ -22,4 +23,8 @@
 
 .imageContainer.loaded {
     opacity: 1;
+}
+
+.imageContainer.noShadow {
+    box-shadow: none;
 }

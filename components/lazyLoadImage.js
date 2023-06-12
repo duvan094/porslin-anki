@@ -24,7 +24,7 @@ export default function LazyLoadImage({image}) {
     return (
       <>
         <div className={styles.imageWrapper}>
-          <div className={`${styles.imageContainer} ${loaded ? styles.loaded : ''}`}>
+          <div className={`${styles.imageContainer} ${loaded ? styles.loaded : ''} ${!image?.shadow && typeof image?.shadow === 'boolean' ? styles.noShadow : ''}`}>
                 <img src={'/images/'+ image?.src} alt={image?.alt} onLoad={onLoad}></img>
             </div>
         </div>

@@ -21,11 +21,11 @@
 }
 
 .hamburgerButton span:nth-child(1) {
-    transform: translate(-50%, calc(-50% + .8rem));
+    transform: translate(-50%, calc(-50% + .6em));
 }
 
 .hamburgerButton span:nth-child(2) {
-    transform: translate(-50%, calc(-50% + -.8rem));
+    transform: translate(-50%, calc(-50% + -.6em));
 }
 
 .hamburgerButton.toggled span:nth-child(3){

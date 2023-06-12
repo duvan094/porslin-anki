@@ -2,11 +2,11 @@
 
 /* semantic color variables for this project */
 :root {
-  --main-bg-color: #FFF;
+  --main-bg-color: #E7ECEF;
   
-  --link-color: #508484;
+  --link-color: #6096BA;
   --link-color-opacity: #508484EE;
-  --link-color-hover: #2e5050;
+  --link-color-hover: #274C77;
   --text-color: #0C0F0A;
 
   --mobile-max-width: 720px;
@@ -46,11 +46,28 @@ body {
   background-color: var(--main-bg-color);
   overflow-x: hidden;
 }
-
+/* 
 main {
   display: flex;
   flex-direction: column;
   padding: 8rem 1rem 6rem 1rem;
+  width: 100%;
+  min-height: calc(100vh - 230px);
+  max-width: 720px;
+  margin: auto;
+} */
+
+main {
+  background-color: #FFF;
+  max-width: 960px;
+  margin: 6rem auto 2rem auto;
+  border-radius: 2px;
+}
+
+.mainWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 1rem 2rem 1rem;
   width: 100%;
   min-height: calc(100vh - 230px);
   max-width: 720px;
