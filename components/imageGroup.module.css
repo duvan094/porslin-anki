@@ -8,18 +8,16 @@
     margin-bottom: 2rem;
 }
 
+.images.desktop {
+    display: none;
+}
+
 .imageColumn {
     display: flex;
     flex-direction: column;
-}
-
-.imageColumn {
-    display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
+    width: 50%;
 }
-
 
 @media(min-width: 720px) {
 
@@ -27,8 +25,11 @@
         width: calc(100% / 3);
     }
 
-    .imageColumn {
+    .images.desktop {
         display: flex;
-        flex-direction: column;
+    }
+
+    .images.mobile {
+        display: none;
     }
 }
