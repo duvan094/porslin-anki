@@ -1,7 +1,9 @@
 {
     "common": {
-        "footnote": "Miac Webdesign Copyright © 2011",
-        "author": "Av:",
+        "footnote": "Copyright © 2023 Miac Webdesign",
+        "footerText": "Denna sida är en uppdatering av <a href='http://porslin.miac.se/' target='_blank'>porslin.miac.se</a> som skapades av Ann-Christine Duvander.",
+        "author": "Skrivet av:",
+        "date": "Publicerat:",
         "links": [
             {
                 "title": "Startsida",
@@ -45,6 +47,7 @@
         "landingpage": {
             "title": "Porslins- och glasmålningens underbara värld",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {"text": "Välkomna till Dig som hittat till min hemsida om porslin- och glasmålning. Jag började måla porslin en höstdag -91 och har sen dess ägnat många timmar åt detta intresse. Senare år har jag även provat på lite glasmålning."},
                 {"text": "Jag har haft hemsida i många år om porslinsmålning och haft många besökare. Hemsidan har även varit omnämnd i \"PC för Alla\". Jag har samlat fakta om tekniker, färger och färglära, material, tips om bränning, bra länkar och lite till. Följ ett av mina <a href='/projekt'>målningsprojekt</a> från början till färdigt resultat. Jag har ändrat layout och bytt hemsideadress och hoppas många hittar hit. I våras var jag i <a href='/utflykter'>Berlin</a> och besökte bl a porslinsfabriken KPM - Königliche Porzellan Manufaktur  och slottet Charlottenburg. Titta gärna in under Berlin länken för att se bilder där ifrån."},
@@ -69,6 +72,7 @@
         "historia": {
             "title": "Porslinshistoria - Ostindiska kompaniet",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "text": "På 900-talet skapades det första porslinet i Kina. Men det var först på 1200-talet som porslinet kom till Europa. Det var den upptäcksresande Marco Polo som besökte Kina på 1200-talet och tog med sig det första porslinet till Europa. Han gav det namnet porslin efter porslinssnäckan. Med tiden inleddes en omfattande handel mellan Kina och Europa. Det var stor efterfrågan på det \"Vita guldet\". Hur porslinet skapades förblev en hemlighet till alkemisten Johann Friederich Böttger kom på hur man gjorde fältspatsporslin år 1708. Då han upptäckt detta spärrades han i på slottet Albrechtsburg i Meissen för att hemligheten inte skulle läcka ut. Så småningom grundades flera fabriker runt om i Europa. Man framställde porslin efter kinesiska förebilder. Porslin var dyrt så det var mest furstuhus och adel som hade råd att köpa."
@@ -179,6 +183,7 @@
         "tekniker": {
             "title": "Olika tekniker",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "subHeading": "Fondning",
@@ -217,6 +222,7 @@
         "farg-och-material": {
             "title": "Färger och material",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "subHeading": "",
@@ -250,6 +256,7 @@
         "projekt": {
             "title": "Följ ett projekt från början till slut",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "text": "Plötsligt dyker det upp en idé och jobbet att skissa på ett nytt projekt börjar. Varje projekt kräver en del förberedelse och kräver oftast 2-4 bränningar. Jag målade ett fat i våras där jag använde mig av lyster, sprängning och sand. Nedan kan Du följa detta projektet.",
@@ -344,6 +351,7 @@
         "branning": {
             "title": "Bränning",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "text": "Det målade porslinet ska brännas i ca 800 grader. Det finns många varianter av ugnar. Det är en fördel att ha termostat på ugnen, då stänger ugnen själv av sig när rätt temperatur är uppnådd. Jag har själv en toppmatad ugn på 40 liter (se bild).Den ugnen tycker jag är lagom om man har porslinsmålning som hobby. Har man ingen egen ugn kan man leta reda på en butik som säljer porslinsmålningsmaterial, ofta bränner de även porslin."
@@ -363,6 +371,7 @@
         "litteratur": {
             "title": "Porslins- och glasmålningens litteratur",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "text": "Här är några tips på böcker med ämnet porslin- och glasmålning.",
@@ -402,6 +411,7 @@
         "utflykter": {
             "title": "Utflykter & Resor",
             "author": "Ann-Christine",
+            "date": "2011",
             "paragraphs": [
                 {
                     "subHeading": "Porslinsfabriken KPM - Königliche Porzellan Manufaktur i Berlin",
