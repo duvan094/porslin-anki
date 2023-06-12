@@ -58,3 +58,21 @@
 .nav.toggled::before {
     opacity: 1;
 }
+
+.progressContainer {
+    position: absolute;
+    bottom: -1px;
+    width: 100%;
+    height: 3px;
+}
+
+.progressBar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--link-color);
+    transform: scaleX(0);
+    transform-origin: left center;
+}

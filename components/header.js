@@ -45,8 +45,30 @@ export default function Header() {
       };
     }, [wrapperRef]);
 
+    const scrollBar = useRef(null)
+
+    const handleScroll = () => {
+
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height);
+      scrollBar.current.style.transform = 'scaleX(' + scrolled + ")";
+    }
+  
+    useEffect(() => {
+      handleScroll();
+      window.addEventListener("scroll", handleScroll);
+      
+      return () => {
+          window.removeEventListener("scroll", handleScroll);
+      };
+    }, [])
+
     return (
       <header className={styles.headerWrapper}>
+        <div className={styles.progressContainer}>
+          <div className={styles.progressBar} ref={scrollBar}></div>
+        </div>
         <div className={styles.header}>
             <HamburgerButton toggled={toggled} toggle={toggleMenu} ref={button} />
             <nav className={`${styles.nav} ${toggled ? styles.toggled : ''}`} ref={wrapperRef}>

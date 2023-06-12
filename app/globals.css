@@ -67,7 +67,7 @@ main {
 .mainWrapper {
   display: flex;
   flex-direction: column;
-  padding: 4rem 1rem 2rem 1rem;
+  padding: 4rem 1rem 4rem 1rem;
   width: 100%;
   min-height: calc(100vh - 230px);
   max-width: 720px;
