@@ -51,7 +51,7 @@ export default function Header() {
 
       var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
       var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      var scrolled = (winScroll / height);
+      var scrolled = Math.round((winScroll / height) * 100) / 100;
       scrollBar.current.style.transform = 'scaleX(' + scrolled + ")";
     }
   

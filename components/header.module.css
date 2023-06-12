@@ -75,4 +75,5 @@
     background-color: var(--link-color);
     transform: scaleX(0);
     transform-origin: left center;
+    transition: .2s ease-out transform;
 }
