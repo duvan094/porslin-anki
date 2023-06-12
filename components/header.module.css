@@ -32,7 +32,8 @@
     border-right: 1px solid #f2f2f2;
     padding: 4rem 2rem;
     transform: translateX(-100%);
-    transition: .2s ease-out transform;
+    visibility: hidden;
+    transition: .2s ease-out all;
 }
 
 .nav::before {
@@ -40,7 +41,7 @@
     position: fixed;
     top: 0;
     left: 100%;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.6);
     width: 100vw;
     height: 100%;
     z-index: -1;
@@ -50,6 +51,7 @@
 }
 
 .nav.toggled {
+    visibility: visible;
     transform: translateX(0);
 }
 

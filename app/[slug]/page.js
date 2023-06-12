@@ -1,7 +1,6 @@
 import MainContent from '../../components/mainContent'
 import { getContent } from '../../content/getContent'
 import NotFound from '../../components/notFound'
-// import { useRouter } from 'next/router'
 
 export default function Page({params}) {
     const content = getContent(params?.slug)
