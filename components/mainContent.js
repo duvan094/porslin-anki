@@ -24,7 +24,7 @@ export default function MainContent({ content }) {
           <small className={styles.authorContainer}>{copy.common.author} 
             <span className={styles.bold}> { content.author }</span>
             { content?.date && 
-              <>. {copy.common.date} <span className={styles.bold}>{content?.date}</span></>
+              <span className={styles.date}>{copy.common.date} <span className={styles.bold}>{content?.date}</span></span>
             }
           </small>}
           { content?.paragraphs && paragraphs }
