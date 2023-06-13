@@ -5,6 +5,7 @@ import styles from './header.module.css'
 import HamburgerButton from './hamburgerButton'
 import content from '../content/sv.json'
 import { useState, useRef, useEffect } from 'react'
+import Logo from './icons/logo'
 
 export default function Header() {
 
@@ -70,6 +71,9 @@ export default function Header() {
           <div className={styles.progressBar} ref={scrollBar}></div>
         </div>
         <div className={styles.header}>
+            <Link className={styles.logo} href="/">
+              <Logo></Logo>
+            </Link>
             <HamburgerButton toggled={toggled} toggle={toggleMenu} ref={button} />
             <nav className={`${styles.nav} ${toggled ? styles.toggled : ''}`} ref={wrapperRef}>
                 { links }

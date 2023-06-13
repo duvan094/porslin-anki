@@ -1,6 +1,7 @@
 .header {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
     padding: .5rem 1rem;
     gap: 1rem;
     margin: auto;
@@ -89,3 +90,29 @@
     transform: scaleX(0);
     transform-origin: left center;
 }
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5rem;
+}
+/* 
+.logo svg {
+    fill: var(--link-color-hover);
+} */
+
+
+.logo::before {
+    content: none;
+}
+
+/* .logoContainer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
