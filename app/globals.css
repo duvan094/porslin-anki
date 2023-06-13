@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap');
-
 /* semantic color variables for this project */
 :root {
   --main-bg-color: #E7ECEF;
@@ -161,6 +160,7 @@ ul > li::before {
 
 a, .link-button {
   position: relative;
+  display: inline-block;
   text-decoration: none;
   align-self: flex-start;
   font-weight: 600;
@@ -223,7 +223,7 @@ a:after, button:after {
   }
   
   p, a, .link-button, ul > li {
-    font-size: 1.4em;
+    font-size: 1.3em;
   }
 
   p > a, p > .link-button {

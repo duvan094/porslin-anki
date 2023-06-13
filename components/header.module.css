@@ -95,24 +95,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 5rem;
+    width: 4rem;
+    height: 3rem;
 }
-/* 
+
 .logo svg {
     fill: var(--link-color-hover);
-} */
+
+    position: absolute;
+    height: auto;
+    top: 0;
+    margin-top: 0.4rem;
+    left: 0;
+    width: 100%;
+}
 
 
 .logo::before {
     content: none;
 }
-
-/* .logoContainer {
-    position: absolute;
-    top: 0;
-    left: 0;
-    height: 6rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-} */
