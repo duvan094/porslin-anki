@@ -184,7 +184,7 @@ a, .link-button {
   padding: 0;
 }
 
-p > a, p > .link-button, small > a {
+p > a, p > .link-button, small a {
   font-size: inherit;
 } 
 

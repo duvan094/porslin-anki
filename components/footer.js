@@ -22,7 +22,7 @@ export default function Footer() {
         </div>
         <div className={styles.wrapper}>
           <small dangerouslySetInnerHTML={{__html: content.common.footerText}}></small>
-          <small><b>{ content.common.footnote }</b></small>
+          <small><b dangerouslySetInnerHTML={{__html: content.common.footnote }}></b></small>
         </div>
     </footer>
   )
