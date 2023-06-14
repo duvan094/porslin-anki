@@ -40,6 +40,10 @@
             {
                 "title": "Galleri",
                 "href": "/galleri"
+            },
+            {
+                "title": "Gästbok",
+                "href": "/gastbok"
             }
         ]
     },
@@ -630,6 +634,230 @@
                             "alt": ""
                         }
                     ]
+                }
+            ]
+        },
+        "gastbok": {
+            "title": "Gästbok",
+            "paragraphs": [
+                {
+                    "text": "Inlägg från tidigare gästbok"
+                }
+            ],
+            "guestbook": [
+                {
+                    "author": "Ulla",
+                    "website": "http://www.hundarhandpainted.se/",
+                    "email": null,
+                    "date": "Torsdagen den 14 juli 2011, 18:31:43",
+                    "text": "Hej!</b>Kul med en intressant sida om porslinsmålning där jag dessutom fick tips om försäljnings ställe som jag inte visste innan!  Har målat på porslin sedan 1984 och haft kurser genom ABF under några år men det var ett tag sedan nu. Nuförtiden försöker jag mig mest på hundporträtt.  Tack för titten!/mvh Ulla"
+                },
+                {
+                    "author": "Siv Andersson ",
+                    "website": null,
+                    "email": "sivsporslin@hotmail.com",
+                    "date": "Onsdagen den 24 november 2010, 09:21:45 ",
+                    "text": "Har målat i 30 år och det är fortfarande lika roligt .Håller en kursdag i veckan och är öppen för nya stilar.Roligt och intressant att hitta nya målarvänner."
+                },
+                {
+                    "author": "Micke",
+                    "website": null,
+                    "email": "granebjer@hotmail.com",
+                    "date": "Torsdagen den 14 juli 2011, 18:31:43",
+                    "text": "Hej! Har 2 banankartonger med porslin till målning, om du vet någon som är intresserad.Jag bor i Stockholm och ska flytta så behöver bli av med det snarast,till en billig penning har även bilder på det om det behövs. Karotter tallrikar äggkoppar kaffekoppar osv osv. Eller om det finns en kurs i Stockholm så kan jag sätta upp en liten lapp kanske! Mvh Micke 0709 668370"
+                },
+                {
+                    "author": "Mona-Lisa",
+                    "website": null,
+                    "email": "haglund50@hotmail.com",
+                    "date": "Måndagen den 20 september 2010, 15:50:51",
+                    "text": "Hej på dej,undrar om du eller någon som läser detta kan berätta hur jag gör när jag ska måla en vattendroppe på t.ex. ett blad</br>Mvh Mona-Lisa"
+                },
+                {
+                    "author": "lena thörnqvist",
+                    "website": null,
+                    "email": "lena.tornqvist@gmail.com",
+                    "date": "Måndagen den 17 maj 2010, 18:26:45",
+                    "text": "Hej Eva-Lena! Jag har ca 50 påsar a'5 gr med pulver i olika färger för porslinsmålning. Min mamma målade porslin nämnligen. Det bär mej emot att slänga detta. Känner du någon, som för en billig penning, vill köpa dessa. Hör i så fall av dej. Jag bor i Trollhättan.</br>Hälsn Lena"
+                },
+                {
+                    "author": "Anitha",
+                    "website": null,
+                    "email": "ahtinaj@hotmail.com",
+                    "date": "Måndagen den 28 december 2009, 21:27:45 ",
+                    "text": "Hej en mycket fin sida du har är ont om sådana innom porslinsmålning.  Letar efter arbetstomtar om du eller nån som läser här har omålade att sälja hör gärna av er till ej. bTack för titten och ha ett Gott Nytt målarår!"
+                },
+                {
+                    "author": "Carolina",
+                    "website": null,
+                    "email": "carolina.vinefur@hotmail.com",
+                    "date": "Fredagen den 11 december 2009, 20:57:38",
+                    "text": "hej! :D</br>jag sökte lite insperation om porslinsmålning och jag hamnade på din sida. Jag var bara tvungen att titta på allt fint du har gjort. Du är fantastiskt duktig!  Har du nån ide om vad man kan måla på porslintill julklapp till någon? - något som är ganska enkelt-</br>MVH Carolina Vinefur 13 år, Örebro"
+                },
+                {
+                    "author": "Britt-Inger. Johansson",
+                    "website": null,
+                    "email": "benji@jacket.nu",
+                    "date": "Måndagen den 7 december 2009, 10:22:49",
+                    "text": "Mycket fin sida"
+                },
+                {
+                    "author": "Rita Bergenholtz",
+                    "website": null,
+                    "email": "rita_bergenholtz@hotmail.com",
+                    "date": "Onsdagen den 1 juli 2009, 11:58:48",
+                    "text": "Hej! Jag har målat porslin i många år och har haft kurser nu har jag mycket vitt porslin (tomtar, vaser, fat) som jag skulle vilja bli av med till ett billigt pris. Är du intresserad eller känner någon annan, kontakta mig gärna på 070 27 58 657"
+                },
+                {
+                    "author": "Anna",
+                    "website": null,
+                    "email": "tar50@spray.se",
+                    "date": "Måndagen den 20 oktober 2008, 19:30:41",
+                    "text": "Hej! Mycket fin sida du har! Försöker hitta en bra sida på nätet där jag kan annonsera ut min brännugn, men hittar ingen bra. Har du tips på någon sida, eller någon tidning där man kan annonsera, som riktar sig till porslinsmålare. Det jag har att sälja är en brännugn för porslin och glas: Ruben Lind elektrisk brännugn. Toppmatad 220V enfas 1x1100W 850ºC Instruktionsblad finns.  Kontakta mig gärna för tips! Hälsningar Annatar50@spray.se"
+                },
+                {
+                    "author": "beit fransson",
+                    "website": null,
+                    "email": "penseldraget@tele2.se",
+                    "date": "Torsdagen den 28 augusti 2008, 22:12:45",
+                    "text": "Hej Anki! Har varit inne och tittat på din hemsida - ett enormt arbete du lagt ner. Mycket fint. Har du tips och ideér om upplägg och domäner som inte kostar skjortan tar jag tacksamt emot. Jag har länge själv tänkt att försöka få till det. Saknade dig på sommarkursen.</br>Kram Berit"
+                },
+                {
+                    "author": "Ulla",
+                    "email": null,
+                    "website": "http://www.hundarhandpainted.se",
+                    "date": "Måndagen den 18 augusti 2008, 08:29:10 ",
+                    "text": "Hej!  Surfade runt och letade porslinssmycken (ett speciellt) och hamnade hos dig.Här fastnade jag en stund för det var mycket trevlig läsning och info! Kul för det är inte så ofta man stöter på ämnet. Jag har själv målat i ca; 24 års tid för att på senare år landat med hundmotiv som främsta intresse. MVH Ulla"
+                },
+                {
+                    "author": "Nette",
+                    "website": "http://www.nettesporslin.dinstudio.se",
+                    "email": "29996eriksson@telia.com",
+                    "date": "Söndagen den 17 februari 2008, 14:45:20",
+                    "text": "Fin hemsida och vilka trevliga saker du har målat! Ha en riktigt trevlig vår."
+                },
+                {
+                    "author": "Lena Magnusson ",
+                    "date": "Onsdagen den 23 maj 2007, 20:59:23",
+                    "text": "Trevlig hemsida Anki!  Nu skall jag titta på Jacobs./hälsa/lena"
+                },
+                {
+                    "author": "Grazia Myren",
+                    "email": "myren.georg@telia.com",
+                    "date": "Söndagen den 17 februari 2008, 14:45:20",
+                    "text": "Jag har kommit på besök, och tycker att Du har en jättefin hemsida. Jag kan tyvärr inte göra någon själv. Jag målar mycket porslin och glas hemma och går på kurser i Stenungsund, fast jag bor på Tjörn. Mitt hemland är sedan 40 år tillbaka Italien, men har nu hunnit bli svensk till slut. Många hälsningar Grazia."
+                },
+                {
+                    "author": "Mona-Lisa",
+                    "email": "monalisasporslin@mattiasnilsson.scorpionshops.com Hemsida:   http://www.mattiasnilsson.scorpionshops....",
+                    "date": "Tisdagen den 6 februari 2007, 22:45:38 ",
+                    "text": "Vilken trevlig hemsida du har gjort massor av intressant information.</br>Mvh Mona-Lisa"
+                },
+                {
+                    "author": "may-liz",
+                    "website": "http://www.nettesporslin.dinstudio.se",
+                    "email": "may-liz@home.se",
+                    "date": "Tisdagen den 26 december 2006, 00:00:54 ",
+                    "text": "hej Anki! har varit inne o sett på porslinsförfundets hemsida o din ,bägge är inspirerande,härliga o vackra foton.snart är det 9/1-07 och vi fortsätter att måla,avkopplande,roligt o härligt att vara en del av den goa gemenskap vi har i gruppen .spännande att se vad nästa år för med sig! hälsningar May-Liz"
+                },
+                {
+                    "author": "Karin Nordlöf",
+                    "email": "nordlof.karin@telia.com",
+                    "date": "Måndagen den 13 november 2006, 20:41:48",
+                    "text": "Hejsan Anci!  Nu har jag lyssnat på skivan. Inte riktigt i min smak, men den var klart godkänd. Erik tyckte den var skitbra.Han gillade trumsoundet. Bra bas i baskaggen. Kram Karin"
+                },
+                {
+                    "author": "Doris Ahlbäck",
+                    "date": "Söndagen den 29 oktober 2006, 20:03:30",
+                    "text": "Fin hemsida."
+                },
+                {
+                    "author": "Karin Nordlöf ",
+                    "email": "nordlof.karin@telia.com",
+                    "date": "Fredagen den 20 oktober 2006, 16:37:02",
+                    "text": "Hejsan Anci !  Fina bilder från Polen. Undrar vart det bär iväg nästa gång. Hoppas att du gillade min musikblandning. Här ljuder Hammerfalls senaste platta på högsta volym.  Vi ses på tisdag. Kram Karin"
+                },
+                {
+                    "author": "Eva Marklund",
+                    "date": "Onsdagen den 11 oktober 2006, 08:01:44",
+                    "text": "Hej Anki ! Sitter här i arla morgonstund och tittar på din härliga hemsida. Du har verkligen fått med allt. Bilderna från vår Polenresa blev ju jättebra!</br>Kram Eva"
+                },
+                {
+                    "author": "Kia",
+                    "email": "kristina@tidermans.se",
+                    "date": "Onsdagen den 11 oktober 2006, 09:45:30",
+                    "text": "Hej Anki!  Fick tips igår på målningen om din hemsida. Den var jätte fin. Kul att se bilderna från era resor. Vi syns nästa tisdag.  H/ Kia"
+                },
+                {
+                    "author": "Susanne",
+                    "email": "udden@telia.com",
+                    "date": "Söndagen den 8 oktober 2006, 13:29:26",
+                    "text": "Hej Anki!! Tittade in och fick se alla fina kort på oss från Polen, längtar redan tillbaka.Fast nu får vi nog måla så skjortan ryker ett tag framöver.Vi ses på Tisdag  /Susanne</br>PS fortsätt gärna skicka mer roliga saker DS"
+                },
+                {
+                    "author": "Angiolina. Giaretta",
+                    "email": "angiolina.giaretta@telia.com",
+                    "date": "Lördagen den 7 oktober 2006, 18:22:38",
+                    "text": "Hej Anki!!!!Fin Hem sida du har ,jag målar själv och tycker som du att det är jätte roligt,har du några bra bilder på Landskap?? Söker efter gamla motiv."
+                },
+                {
+                    "author": "Susanne",
+                    "email": "susie@olivedal.com",
+                    "website": "http://www.olivedal.com/susie",
+                    "date": "Onsdagen den 27 september 2006, 14:04:31",
+                    "text": "Hej Anki!  Jag hittade din sida när jag sökte på porslinsmålning! Kul att få se era bilder! Det var verkligen kul att måla porslin igår!</br>M v h Susanne (Marias dotter :)"
+                },
+                {
+                    "author": "Karin Nordlöf",
+                    "email": "nordlof.karin@telia.com",
+                    "date": "Söndagen den 23 juli 2006, 22:26:03",
+                    "text": "Hejsan Anci !</br>Din hemsida är verkligen toppen.Hoppas att du har en skön sommar. Vi ses på sommarkursen.Vad gillar du LORDI förresten? Skitbra tycker jag!  Kram Karin"
+                },
+                {
+                    "author": "Sofia",
+                    "email": "sofia@miac.de",
+                    "date": "Söndagen den 24 september 2006, 12:01:38",
+                    "text": "Hej Mamma!</br>Vad snygg hemsida du har gjort. Fina bilder!!!!!</br>Sofia"
+                },
+                {
+                    "author": "Britt-Marie Kristiansson",
+                    "email": "bm.kristiansson@telia.com",
+                    "date": "Torsdagen den 27 april 2006, 15:40:52",
+                    "text": "Hej Anki! Vilken trevlig hemsida du har. Målar lite själv. Hur lär man sig att bränna poslinet själv om man vill?  Hälsningar Britt-Marie"
+                },
+                {
+                    "author": "Susanne",
+                    "email": "udden@telia.com",
+                    "date": "Lördagen den 22 april 2006, 18:26:12",
+                    "text": "Hej Anki! Tack för att du har fixat hemsidan så jag kan se den,  mycket fin tycker jag. Vi ses imorgon på färgläran. Susanne"
+                },
+                {
+                    "author": "Britt-Marie Kristiansson",
+                    "email": "bm.kristiansson@telia.com",
+                    "date": "Torsdagen den 27 april 2006, 15:40:52",
+                    "text": "Hej Anki! Vilken trevlig hemsida du har. Målar lite själv. Hur lär man sig att bränna poslinet själv om man vill?  Hälsningar Britt-Marie"
+                },
+                {
+                    "author": "Anita Spångberg",
+                    "email": "anita.spangberg@ifowater.se",
+                    "date": "Onsdagen den 12 april 2006, 12:48:53",
+                    "text": "Glad Påsk Anki!  Jag vill bara tala om att jag tycker du har en jättefin hemsida, som jag ganska ofta tittar in på för att få lite inspiration mm. Vi hörs säkert igen. Ha det skönt. Hälsningar Anita"
+                },
+                {
+                    "author": "ANITA M",
+                    "date": "Tisdagen den 4 april 2006, 20:26:48",
+                    "text": "FIN HEMSIDA DU HAR. SKA DU PÅ SPF SOMMARKURS I ÅR? JAG HAR ANMÄLT MIG FÖR FÖRSTA GÅNGEN. SKA BLI KUL."
+                },
+                {
+                    "author": "Ann Norup",
+                    "date": "Onsdagen den 22 mars 2006, 18:34:35",
+                    "text": "Hej Anki!  Fin hemsida du har. Kul !!!  Ann"
+                },
+                {
+                    "author": "Maria Hoch",
+                    "email": "mhoch@epost.ventelo.se",
+                    "date": "Torsdagen den 23 mars 2006, 13:34:14",
+                    "text": "Heja Anki!!!!!</br>Nu har jag gjort SPFs sida till min startsida. Vi ses !  Maria"
                 }
             ]
         }

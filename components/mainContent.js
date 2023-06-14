@@ -2,6 +2,7 @@
 
 import { Fragment } from 'react'
 import ImageGroup from './imageGroup'
+import Guestbook from './guestbook'
 import copy from '../content/sv.json'
 import styles from './mainContent.module.css'
 
@@ -28,6 +29,7 @@ export default function MainContent({ content }) {
             }
           </small>}
           { content?.paragraphs && paragraphs }
+          { content?.guestbook && <Guestbook content={content?.guestbook} />}
         </div>
       </main>
     )

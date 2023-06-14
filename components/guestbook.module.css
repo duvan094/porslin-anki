@@ -1,0 +1,32 @@
+.post {
+    margin: 1rem 0;
+}
+
+.post:first-child {
+    margin-top: 0;
+}
+
+.post:last-child {
+    margin-bottom: 0;
+}
+
+.date {
+    font-size: .8rem;
+    color: #747474;
+}
+
+.author {
+    font-weight: 600;
+}
+
+.author::after {
+    content: "·";
+    font-weight: 600;
+    margin-left: .5rem;
+    margin-right: .5rem;
+}
+
+.content {
+    font-size: .8rem;
+    margin: 0;
+}

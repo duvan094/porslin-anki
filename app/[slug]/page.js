@@ -40,6 +40,9 @@ export async function getStaticPaths() {
     {
       params: { slug: "farg-och-material" },
     },
+    {
+      params: { slug: "gastbok" }
+    }
   ];
 
   return {
