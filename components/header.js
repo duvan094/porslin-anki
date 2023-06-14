@@ -76,7 +76,9 @@ export default function Header() {
             </Link>
             <HamburgerButton toggled={toggled} toggle={toggleMenu} ref={button} />
             <nav className={`${styles.nav} ${toggled ? styles.toggled : ''}`} ref={wrapperRef}>
+                <div className={styles.linkWrapper}>
                 { links }
+                </div>
             </nav>
         </div>
       </header>
