@@ -25,12 +25,12 @@
 }
 
 ::-moz-selection { /* Code for Firefox */
-  color: var(--main-bg-color);
+  color: #FFF;
   background: var(--text-color);
 }
 
 ::selection {
-  color: var(--main-bg-color);
+  color: #FFF;
   background: var(--text-color);
 }
 
