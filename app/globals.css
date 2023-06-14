@@ -47,6 +47,20 @@ body {
 }
 
 main {
+  animation: fadeInAnimation ease .5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
+}
+
+main {
   background-color: #FFF;
   max-width: 960px;
   margin: 6rem auto 2rem auto;
@@ -178,8 +192,9 @@ a:before, .link-button:before {
   content: '';
   display: block;
   width: 100%;
-  min-height: 2px;
+  min-height: 1.5px;
   height: 0.09em;
+  margin-bottom: 0.2em;
   background-color: var(--link-color);
   position: absolute;
   left: 0;
