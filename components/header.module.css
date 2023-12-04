@@ -6,7 +6,15 @@
     gap: 1rem;
     margin: auto;
     width: 100%;
-    max-width: 1280px;
+    max-width: 1400px;
+}
+
+@media (min-width: 720px) {
+    
+    .header {
+        padding: .5rem 2rem;
+    }
+
 }
 
 .headerWrapper {
